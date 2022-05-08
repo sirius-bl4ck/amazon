@@ -1,0 +1,1 @@
+<meta http-equiv="REFRESH" content="10;url=">
